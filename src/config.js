@@ -1,5 +1,5 @@
 module.exports = {
-  owners: ["1173547185758015498"],
+  owners: ["1114889680484315206"],
   nodes: [{
     identifier: 'NODE-MAIN-2',
     host: 'lava-v3.ajieblogs.eu.org',
